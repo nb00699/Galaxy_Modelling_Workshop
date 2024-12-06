@@ -1,6 +1,6 @@
 # Gaussian Mixture Model Mock Data and BIC Calculation Using Extreme Deconvolution
 
-This repository contains two notebooks designed for generating and analysing mock datasets in a multidimensional space using Gaussian Mixture Models (GMM) and Extreme Deconvolution (XD) (Bovy et al. 2011). Please cite Buckley et al. 2024 if using:
+This repository contains two notebooks designed for generating and analysing mock datasets in a multidimensional space using Gaussian Mixture Models (GMM) and Extreme Deconvolution (XD) (Bovy et al. 2011). Please cite Buckley et al. 2024 if using.
 
 ## Notebook 1: Mock Data Generation
 Generates synthetic data using a GMM, introduces observational errors, and saves the dataset to a CSV file.
