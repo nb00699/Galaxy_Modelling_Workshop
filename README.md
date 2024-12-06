@@ -23,6 +23,7 @@ Output: A CSV file named `generated_data_with_errors.csv`
 ### Step 2: `Calculating_the_BIC_for_Mock_Data_Using_XD`
 Run the BIC Calculation with Extreme Deconvolution notebook to analyse the dataset.
 - Reads in the `generated_data_with_errors.csv` file.
+  
 Output: Visualises the BIC scores to help identify the optimal number of components.
 
 ## Potential Issues and Solutions
