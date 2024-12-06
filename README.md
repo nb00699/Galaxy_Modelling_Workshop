@@ -17,6 +17,7 @@ Key Parameters in the Mock Data Notebook:
 - num_samples: Total number of data points.
 - min_separation: Minimum separation between the means of Gaussian components to reduce overlap.
 - error_std: Standard deviation of the Gaussian errors added to the data.
+  
 Output: A CSV file named `generated_data_with_errors.csv`
 
 ### Step 2: `Calculating_the_BIC_for_Mock_Data_Using_XD`
